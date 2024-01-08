@@ -1,0 +1,33 @@
+.container{
+    background-image: url('../images/Banner\ Image.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1320px;
+    height: 600px;
+}
+.text-overlay{
+    color: aliceblue;
+    text-align: center;
+    justify-content: center;
+}
+.text{
+    text-align: center;
+}
+.new-year{
+    text-align: center;
+}
+.color{
+    color: red;
+}
+.party{
+    background-image: url('../images/Vectorrr.png');
+    width: 1310px;
+    height: 600px;
+    background-repeat: no-repeat;
+}
+.banner-text{
+   color: white;
+}
+.center{
+ text-align: right;
+}
