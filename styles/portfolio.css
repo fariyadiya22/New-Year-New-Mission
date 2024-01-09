@@ -30,6 +30,7 @@
 .banner-text{
    color: white;
    font-family: 'Open Sans', sans-serif;
+   /* padding: 100px; */
 }
 .button{
     background-color: black;
@@ -39,6 +40,9 @@
 }
 .center{
  text-align: right;
+ /* padding: 0.008px 0px 0px 0px;
+flex-direction: column; */
+padding-bottom: 10px;
 }
 .red{
     color: red;
@@ -84,5 +88,12 @@ nav{
 .discount{
     text-align: right;
     justify-content: right;
+    border-radius: 16px 16px 0px 0px;
+}
+.shopping{
+    display: ;
+    gap: 10px;
+    justify-content: baseline;
+    border: 0px;
     
 }
