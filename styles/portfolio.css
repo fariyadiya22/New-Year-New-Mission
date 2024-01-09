@@ -97,3 +97,46 @@ nav{
     border: 0px;
     
 }
+.shopping-item{
+    display: flex;
+}
+.div{
+    color: aliceblue;
+    background-color: red;
+    border-radius: 0px 40px 40px 0px ;
+    border: 0;
+    width: 200px;
+    height: 70px;
+}
+.email{
+    border-radius: 50px 0px 0px 50px ;
+    border: 0;
+    width: 600px;
+    height: 70px;
+}
+.footer-column{
+    /* background-color: black; */
+    color: aliceblue;
+    /* width: 1500px; */
+    /* height: 600px; */
+    display: flex;
+    justify-content: space-between;
+}
+.number{
+    display: flex;
+    padding: 20px;
+}
+.footer{
+    background-color: black;
+    width: 1500px;
+    height: 600px;
+    /* display: flex; */
+}
+.logo{
+    text-align: center;
+}
+.black{
+    color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+}
